@@ -1,0 +1,46 @@
+##########################################################################
+## This file is to remove those key that not required for the new share ##
+## If you want the new share to "have" the setting to copy over, please ##
+## Please "comment(#)" out                                              ##
+##########################################################################
+#access_based_enumeration
+#access_based_enumeration_root_only
+#allow_delete_readonly
+#allow_execute_always
+#allow_variable_expansion
+#auto_create_directory
+#browsable
+#ca_timeout
+#ca_write_integrity
+#change_notify
+#continuously_available
+#create_permissions
+#csc_policy
+#description
+#directory_create_mask
+#directory_create_mode
+#file_create_mask
+#file_create_mode
+#file_filter_extensions
+#file_filter_type
+#file_filtering_enabled
+#hide_dot_files
+#host_acl
+id
+#impersonate_guest
+#impersonate_user
+#inheritable_path_acl
+#mangle_byte_start
+#mangle_map
+#name
+#ntfs_acl_support
+#oplocks
+#path
+#permissions
+#run_as_root
+#smb3_encryption_enabled
+#sparse_file
+#strict_ca_lockout
+#strict_flush
+#strict_locking
+zid
