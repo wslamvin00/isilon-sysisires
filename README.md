@@ -26,7 +26,7 @@ Use at your own risk.
 Change History:
 1.0  - init release
 1.1  - Bug fix on SMB export on AD unable to resolve user/group name; added version control
-1.1n - Errir handling on createNFS
+1.1n - Error handling on createNFS
 
 
 syncisires.py Features
